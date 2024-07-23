@@ -1,0 +1,1029 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "apk_info": {
+          "apk_name": "MusicForCar_V1.0.7_2023-06-14-10-11_changanNosign_sec_20230614101248_sign_V2.apk",
+          "file_size": "17780202",
+          "hash_code": "097df9f2b55f90a25104712cd1911637",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/707145086c78c78f6dad29de3677094775a48d5aeef1955b0da25338cdec1b12fe16aec5b97ddce1fb2f84473330f44b"
+        },
+        "app_id": "1689833218525773824",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/98d25837df1263941645d6a69d62d621c568b365cb7c3cea3712f112fd5d742cafb83a486f72a39146006f0afd82b875",
+        "name": "咪咕音乐",
+        "package_name": "com.migu.car.music",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "听、看、唱、玩的全场景音乐体验",
+        "statics": {
+          "downloads": "2",
+          "installs": "2",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "yes",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689833216308191232",
+        "type": "7",
+        "uninstall": true,
+        "version": "1.0.7",
+        "version_id": "1689833812120174592",
+        "version_number": 7
+      },
+      {
+        "apk_info": {
+          "apk_name": "665bd9fdcaaead8d5855047b9895a8f0.apk",
+          "file_size": "329390914",
+          "hash_code": "665bd9fdcaaead8d5855047b9895a8f0",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/28328ea15fe323a7e4b1b1cdecac42b2f9ff531e882b9f9cac36787b3aeecb8b79b414aaff49f7ecdfb986e680b69e71"
+        },
+        "app_id": "1753235545025839104",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/6f5e31c3e1f066010e8c1f015255370674c0b500c96627cbe18f733cf7b7ca772266663ca85db5e45dd302637bedc805",
+        "name": "尔雅畅游",
+        "package_name": "com.eryanet.game",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "专为驾驶与休闲打造的游戏App",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1753235507531247616",
+        "type": "12",
+        "uninstall": true,
+        "version": "EY.0101.2309.14",
+        "version_id": "1753237283726180352",
+        "version_number": 7
+      },
+      {
+        "apk_info": {
+          "apk_name": "BigsurMobileConnect-slv_signed.apk",
+          "file_size": "16957485",
+          "hash_code": "64f4e6b2bb7742e3a3d38cbf65038ee5",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/982c2dd00cd8d31ff2b00479817a349ec75f4d67f1c93c9c169c86fae855c6a8912014c0457367b8f220cb1aecb313ef"
+        },
+        "app_id": "1731638064975462400",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/334f84984790d1eb081dfc746455a7770f3959eae74bcf5ba6cb8563b601f664592df5c9cbe58c76a1291ed7710cd87d",
+        "name": "手机互联",
+        "package_name": "com.mega.mobileconnect",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "支持手机投屏到汽车的车载助手",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731638050174312448",
+        "type": "3",
+        "uninstall": true,
+        "version": "1.0.18",
+        "version_id": "1807679029278842880",
+        "version_number": 18
+      },
+      {
+        "apk_info": {
+          "apk_name": "MegaCarPlay20240514_1_0_85_vc6_signed.apk",
+          "file_size": "5434799",
+          "hash_code": "a64a1c14bbf8478b67b93158e079f16d",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/09bc99bb857aa5fb41e3a557912ef450765015b44d030109527f41397d7129f19f6bcbef478a78b6dc09ec5bf1501ec6"
+        },
+        "app_id": "1731641984788762624",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/5da62b37ad460a85de17c622030d8cab3c530f0cd235427a4492ad7bedb73654dd03a8fa6a8609791ff04ff2543bdf86",
+        "name": "Carplay",
+        "package_name": "com.mega.carplay",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "iPhone无线连接更加方便",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731641971139805184",
+        "type": "3",
+        "uninstall": true,
+        "version": "1.0.85",
+        "version_id": "1806223063718342656",
+        "version_number": 6
+      },
+      {
+        "apk_info": {
+          "apk_name": "d4c95f28ed9b9da5251923ed474fef6e-v3.8.5.apk",
+          "file_size": "46804500",
+          "hash_code": "d4c95f28ed9b9da5251923ed474fef6e",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/8da967e916158c60ee5ddfb1835450387c77781bfa73a36ee26fab95557130b5b5cf882da3157d1b5e2d0c22e5f3a554"
+        },
+        "app_id": "1730488061536366592",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/0523cabffd85fe201602ca080349639f06f7a98fda7624710ba8fe34f90cda78f9db2e9d521f8a1bf4ef3065d9a792ec",
+        "name": "爱奇艺",
+        "package_name": "com.qiyi.video.iv",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "精彩热剧看不停",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1730488044809453568",
+        "type": "1",
+        "uninstall": true,
+        "version": "3.8.5",
+        "version_id": "1754424501512192000",
+        "version_number": 308005
+      },
+      {
+        "apk_info": {
+          "apk_name": "酷咖.apk",
+          "file_size": "26650709",
+          "hash_code": "d9c92c023b967bf6b8ed34f0a3450fbc",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/c2b4cc0d1b3b817476c3b72adbacdac65def2b4bf43573d26e0138903808d1369d2116eaca0105141f68be888f1d6703"
+        },
+        "app_id": "1752589787703832576",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/94ab807541dbef3f124a1b7388697dde05f6e1a662dbfbbd8b247fd50b8a8a1ef528dc757f013c66ad3bdea02443d452",
+        "name": "酷咖游戏",
+        "package_name": "com.cocav.tiemu",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "一款可联机对战街机游戏大厅",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1752589759147397120",
+        "type": "12",
+        "uninstall": true,
+        "version": "1.5.2",
+        "version_id": "1752590471547875328",
+        "version_number": 27
+      },
+      {
+        "apk_info": {
+          "apk_name": "kwplay_cr_6.0.1.2_changan_shop_2023-08-18_sign_V2.apk",
+          "file_size": "36287281",
+          "hash_code": "698f71f810c85ab894d6b6b4ca2f9b9f",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/05789ca165019f7b3b2c7b5a0291a33c3fba9a4628091e8c3b881438d87f9295fcd4f2ad860afcf3decbe4b0d4f6dad1"
+        },
+        "app_id": "1689822038634004480",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/6de7f5a8f31f1e3ccfd42134fd5c0e8b4aa84360eb451cc7625ed7ef51279da279fc0f3730e695b480fd56cb7c8023a8",
+        "name": "酷我音乐",
+        "package_name": "cn.kuwo.kwmusiccar",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "好音质，用酷我",
+        "statics": {
+          "downloads": "4",
+          "installs": "4",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689822035781619712",
+        "type": "7",
+        "uninstall": true,
+        "version": "4.3.5.7",
+        "version_id": "1689831203820544000",
+        "version_number": 6012
+      },
+      {
+        "apk_info": {
+          "apk_name": "youku_v2_0918_signed_v2.apk",
+          "file_size": "58415159",
+          "hash_code": "ee7f83232a8ea0673ec1d4bb4799304a",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/3b85a39b61306fe0265afdd9c4f946f3bd542878e6d6280097ff5592fdd8b44b90f5bfd01a439556f9f12ea7659133bc"
+        },
+        "app_id": "1689837075303608320",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/04fbf8519b2ff41f598d9cb3ea756d2a1ff1ce27c56f348c4b9058da218fc2b6abfbdcfb1b202c587f608569877cbd7c",
+        "name": "优酷视频",
+        "package_name": "com.youku.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "长月烬明 全网独播",
+        "statics": {
+          "downloads": "11",
+          "installs": "11",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "22",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689837073524682752",
+        "type": "1",
+        "uninstall": true,
+        "version": "11.0.31.250",
+        "version_id": "1689837698865500160",
+        "version_number": 595
+      },
+      {
+        "apk_info": {
+          "apk_name": "miguvideo_changan_V2_10.3.2.24.carcv.uniall_202307061728_release_sec_20230706173208_signed.apk",
+          "file_size": "39706330",
+          "hash_code": "26a09aa38160c93be105ad95131d3c82",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/5dd4ee713d60f0369e54d8579432cee7d419e8d22bdbd86e89c9fb5fc8b4f58759203e94e6cb0cc48a19608a62cda35f"
+        },
+        "app_id": "1689840789560745984",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/7c4fd766f2121501f2f0498daa379871c5e1cd800304cd0d816e4583ca0f7f66d3e0f61e6ddd34227f616d44136c1d19",
+        "name": "咪咕视频",
+        "package_name": "cn.cmvideo.car.play",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "让今天更有趣",
+        "statics": {
+          "downloads": "2",
+          "installs": "2",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "22",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689840784481247232",
+        "type": "1",
+        "uninstall": true,
+        "version": "10.3.2.24",
+        "version_id": "1689841525179412480",
+        "version_number": 10322422
+      },
+      {
+        "apk_info": {
+          "apk_name": "3a034c4f70e6b714859418bb215a82aa.apk",
+          "file_size": "6990300",
+          "hash_code": "3a034c4f70e6b714859418bb215a82aa",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/46574a96e689bd86dd2c0ebf2c5d95a58fdddedb95c6c772e69b7acae2be0eae0408adcadd6aa7972666f38a980ab3c1"
+        },
+        "app_id": "1731557664278818816",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/29edd9014b9c0684d2cee79e5821cb36a864b051b314dfb9d1e4b16a72423f6de79a39273605c1a9b6760acad943b7c3",
+        "name": "乐听头条",
+        "package_name": "com.leting.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "乐听头条，听你喜欢的头条！",
+        "statics": {
+          "downloads": "5",
+          "installs": "5",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731557639117991936",
+        "type": "5",
+        "uninstall": true,
+        "version": "2.2.7",
+        "version_id": "1731558485820194816",
+        "version_number": 227
+      },
+      {
+        "apk_info": {
+          "apk_name": "b1412dc89f9f515237ecb401334f440a.apk",
+          "file_size": "12578431",
+          "hash_code": "b1412dc89f9f515237ecb401334f440a",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/bc37e0bffc9b47a879b2d8d05205446d56a006b2f3df80cfdcbdca4abdbcea852497d9279bb0c7188f23649babfee0dc"
+        },
+        "app_id": "1731513834008756224",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/37cf008df2910e8820e1589bb9a5082845943ee08e5954b2c4c9f6d2a3c28889e431c30f5f658cf346b4e970a22c09d8",
+        "name": "荔枝播客",
+        "package_name": "com.lizhi.smartlife.lzbk.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "听见新世界",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731513821424537600",
+        "type": "5",
+        "uninstall": true,
+        "version": "2.5.4.10",
+        "version_id": "1731514806311968768",
+        "version_number": 140632
+      },
+      {
+        "apk_info": {
+          "apk_name": "dd60e4617c930f6151aa2e035b2b6ad6.apk",
+          "file_size": "21710166",
+          "hash_code": "dd60e4617c930f6151aa2e035b2b6ad6",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/f9cfd7db0b4dd1ec2a7fb7b02199dfbf29f409fa2012481a92255990ccf557c640450c79e8533cc2b13831770ce5d948"
+        },
+        "app_id": "1730406977202053120",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/cab061db4849a944d4896a3fe0f704aad9dfa3e7242926b7d20eae6dda7d33815ca4e767dcfc15af866daec6365f4403",
+        "name": "阿基米德",
+        "package_name": "com.ajmide.car.a",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "随时随地听广播",
+        "statics": {
+          "downloads": "3",
+          "installs": "3",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1730406973070020608",
+        "type": "5",
+        "uninstall": true,
+        "version": "1.0.6",
+        "version_id": "1730409163124641792",
+        "version_number": 6
+      },
+      {
+        "apk_info": {
+          "apk_name": "76a151ef7f7d6961e3313e08b5b8c417.apk",
+          "file_size": "75996907",
+          "hash_code": "76a151ef7f7d6961e3313e08b5b8c417",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/83230eb9062a5e6209e47d42fc2b1168f5a5a3f10e88e0ae5cc1c96139893b59aabe16c7e6e62ea09499fdba4e77955b"
+        },
+        "app_id": "1731646016855908352",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/c75a2445acdacf3e95fb0e04dacaf6257413f7be5336eeed3e0d51276676ad3ce3d7c06c16c78cbb2c60161b749f927b",
+        "name": "豆瓣阅读",
+        "package_name": "com.douban.book.reader",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "你的小说世界",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731646006640422912",
+        "type": "5",
+        "uninstall": true,
+        "version": "5.27.1",
+        "version_id": "1731646419420225536",
+        "version_number": 337
+      },
+      {
+        "apk_info": {
+          "apk_name": "59c8501dfc5683883faff4dc3316a3f3.apk",
+          "file_size": "24578782",
+          "hash_code": "59c8501dfc5683883faff4dc3316a3f3",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/42b0273f1e3503c4b4257615612f6ce8f1a852e8ee5e0cd37fc5094d693771430c073f843705aafbe16885e0acdbc1d2"
+        },
+        "app_id": "1730510959344115712",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/860c6545a3551b60ce4d1300a42881e605c907d7f2856583edd6b6441a7d8b1b5917e402607ad596563a48e7f7f27bb4",
+        "name": "网易新闻HD",
+        "package_name": "com.netease.newsappf",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "网易新闻，各有态度",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1730510939409879040",
+        "type": "5",
+        "uninstall": true,
+        "version": "5.4",
+        "version_id": "1730511409767133184",
+        "version_number": 59
+      },
+      {
+        "apk_info": {
+          "apk_name": "FM_changan_car_release_230220160619_6dc305d_v1.0.4_sign2.apk",
+          "file_size": "7142151",
+          "hash_code": "4778977fc6006b0a86b3d64372c73329",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/9d5cdbcc5327a34a38327967ee9fbe3fc17cabe9fcfa02de39dbecb73cbca9605b3cd1cd4b5044d05a4b32b973534aca"
+        },
+        "app_id": "1689827666074062848",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/dd79ae9c0b093122027bda1bb23e35555413831818cf3fe6066237e7206b0a6383f915dde27d615f2803811cafe4e1f7",
+        "name": "凤凰FM",
+        "package_name": "com.ifeng.ecarxfm",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "时代新知 生活头条",
+        "statics": {
+          "downloads": "2",
+          "installs": "2",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689827664007794688",
+        "type": "5",
+        "uninstall": true,
+        "version": "1.0.4",
+        "version_id": "1689828890304864256",
+        "version_number": 104
+      },
+      {
+        "apk_info": {
+          "apk_name": "fandengdushuhui_ChangAnQiChe_S202_2.3.0_release_sign2.apk",
+          "file_size": "15886942",
+          "hash_code": "46b1abdacceb0d1fc387b0f95221de89",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/3f89791ba226f3184ed6f6ab14078429213abeced60b88d2f380fafecc2287048da026c8f932b1f143d1e0d2125ee2e0"
+        },
+        "app_id": "1689830620620279808",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/733cdffe926e06b0835d09a189e0ad2a0ff7ea98930a9e6c3b09f164e9ef1b070ffd7574b00e8a0d79a954aeb72db539",
+        "name": "帆书",
+        "package_name": "io.dushu.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "读书点亮生活",
+        "statics": {
+          "downloads": "2",
+          "installs": "2",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689830619482185728",
+        "type": "5",
+        "uninstall": true,
+        "version": "2.3.0",
+        "version_id": "1689843306435448832",
+        "version_number": 230
+      },
+      {
+        "apk_info": {
+          "apk_name": "SFM_C_A_S_V1.0.8_ca236_20231121_105321.apk",
+          "file_size": "16651522",
+          "hash_code": "c4a936903779dd128536668bba8ae84f",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/aecd6b13f19022a5c59184f0a4ec34e34db83c4dd2eb3b6a9489030c18bc3f68774f992ccf2bdce67a0f7211f9452b01"
+        },
+        "app_id": "1689159807101685760",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/127ac1f21bcff99b9b39c4d7e278b69e21bbcbe4b0e89a70dc3f768382727a31d3898c772d7439316fee80a5290f499b",
+        "name": "听见广播",
+        "package_name": "cn.cbct.seefmcar",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "好听好看的广播电台节目互动直播",
+        "statics": {
+          "downloads": "5",
+          "installs": "5",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          }
+        ],
+        "tid": "1689159805103017984",
+        "type": "5",
+        "uninstall": true,
+        "version": "1.0.8",
+        "version_id": "1689160335379685376",
+        "version_number": 108
+      },
+      {
+        "apk_info": {
+          "apk_name": "MiguPlay-V1.0.0.3_40257747785-sign-v2.apk",
+          "file_size": "43043582",
+          "hash_code": "28dc3599da4b2cc8f4b522071c018ac8",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/37c6e6a57a7081745029639e36e124a93e9aab60e98b42a81869885184b88a405b43adeb972a4fa7400e2f425d9a8010"
+        },
+        "app_id": "1689838939116425216",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/02ada6c15c31403c9011da802b710ad45ec05eb1577b2ba3dfd258107c514de6ad789f15c69b0843f58cf17ccb1945f8",
+        "name": "咪咕快游",
+        "package_name": "com.migu.miguplay",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "海量3A云游戏，免下载秒玩",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "11",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1689838936303792128",
+        "type": "12",
+        "uninstall": true,
+        "version": "1.0.0.3",
+        "version_id": "1689839529896058880",
+        "version_number": 1003
+      },
+      {
+        "apk_info": {
+          "apk_name": "2cf8040b4417bb8fa230cd9125ee5563.apk",
+          "file_size": "26179958",
+          "hash_code": "2cf8040b4417bb8fa230cd9125ee5563",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/91595df520d34bb5d81f092608ece8ef2a079a24ab87fa6003776386d44ff3db4b589e1443b0a55e67f3488f4413494a"
+        },
+        "app_id": "1730515034043559936",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/f4277c4f0d19349626a65228d456bb3b884e1e686e9061524c11b5c8e75a63844a699554e87e61dbd862b698b89e3ffa",
+        "name": "宝宝巴士故事",
+        "package_name": "com.sinyee.babybus.story.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "涵盖一万+古今中外好故事",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "22",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1730515022307262464",
+        "type": "9",
+        "uninstall": true,
+        "version": "1.3.1",
+        "version_id": "1730515494341042176",
+        "version_number": 1301
+      },
+      {
+        "apk_info": {
+          "apk_name": "e1a01e3bf729beee5239acd039d14f52.apk",
+          "file_size": "12500591",
+          "hash_code": "e1a01e3bf729beee5239acd039d14f52",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/e884cfd059f72572bc5977df2db3426ee07e804bf02c26326b62c0ad0d3e785b112512a73b55079b1296ee2c50ba5d5f"
+        },
+        "app_id": "1731555745012662272",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/3890ce64b14c4efb5a96b205ea11903973c7f6daac5f340ac10d9531af95d249aee686a197bd13abd377d71b95e51033",
+        "name": "口袋故事",
+        "package_name": "com.koudaistory.car.changan",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "下载口袋故事，听故事涨知识",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [
+          {
+            "tag_code": "02",
+            "type_code": "touping01"
+          },
+          {
+            "tag_code": "22",
+            "type_code": "dark"
+          },
+          {
+            "tag_code": "no",
+            "type_code": "tuijian"
+          }
+        ],
+        "tid": "1731555708693401600",
+        "type": "9",
+        "uninstall": true,
+        "version": "6.15.0224010",
+        "version_id": "1731556183987482624",
+        "version_number": 257
+      },
+      {
+        "apk_info": {
+          "apk_name": "BigsurAILab_signed-new.apk",
+          "file_size": "11822834",
+          "hash_code": "029cbec6d5bbc439c7a781fa695d1e1d",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/b91965cf95351092d0321aac0dc002db98842943e61ee5afc2e3259a09e613003a2bf800e0f4110e1d11a5a6a162b9d3"
+        },
+        "app_id": "1752624974718713856",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/0a5d96dfea21a13917acc31df7c610160ef1d1ff5d6366a813e1c45fbfafe341635797f316adef132d42aca80f4725bc",
+        "name": "AI实验室",
+        "package_name": "com.mega.ailab",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "有趣的AI",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1752624925300891648",
+        "type": "3",
+        "uninstall": true,
+        "version": "2.0.1",
+        "version_id": "1798169352690118656",
+        "version_number": 20000001
+      },
+      {
+        "apk_info": {
+          "apk_name": "b1d712f3857321ca207e432a661829e2.apk",
+          "file_size": "21449968",
+          "hash_code": "b1d712f3857321ca207e432a661829e2",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/04144d1885ab30bdf8663edda9b92369f0016d50897264c666b94e32d78f42daffdccffe28322e79736dfa925d28bd2f"
+        },
+        "app_id": "1731560083924185088",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/3408dc994e3cd517574e5b9b6d4bbf552c34d5dec4c8ce21b76ef8aafc57e65c2aa5ae6da2cf001dec612ab4436f8182",
+        "name": "百度网盘",
+        "package_name": "com.baidu.netdisk.car",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 1,
+        "slogan": "超大储存空间，7亿用户的选择",
+        "statics": {
+          "downloads": "2",
+          "installs": "1",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731560057677672448",
+        "type": "3",
+        "uninstall": true,
+        "version": "1.0.3",
+        "version_id": "1731561353091371008",
+        "version_number": 3
+      },
+      {
+        "apk_info": {
+          "apk_name": "儿童座椅.apk",
+          "file_size": "16441515",
+          "hash_code": "38f090bae263e3cc8ab5b57c8a5147db",
+          "hash_type": "md5",
+          "url": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/b9874aa11ce7eea84d0d8dfb8e7bb8eb4619be0275faa9eda05b51ebee1bc219caa8544987ae394c0f07d4f2b8bacaa6"
+        },
+        "app_id": "1752971250164207616",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/55cf4e2d4777a7ac44f50081a7b8cf0e3f878d4c9de029fff4cc70e222fe4ded2f34fa823f3f352b3e502990156cadb8",
+        "name": "儿童座椅",
+        "package_name": "com.innovation.db.safetyseat",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "匹配深蓝官方商城儿童座椅",
+        "statics": {
+          "downloads": "4",
+          "installs": "4",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1752971215286870016",
+        "type": "3",
+        "uninstall": true,
+        "version": "0.0.13",
+        "version_id": "1752971523565969408",
+        "version_number": 13
+      },
+      {
+        "apk_info": {
+          "apk_name": "S202MCA-0929-BestWeather_v1.0.24_02018_ChanganRelease_2022.09.29_12.27_sign.apk",
+          "file_size": "14515259",
+          "hash_code": "79108a928e6474ac87ae5e18c85ed0c3",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/8b024417147d5971149fdeb55238c618854ab19e89bc0caa4639460c9664d159ce5506b6c00e2c2a83d9a04b1efd8645"
+        },
+        "app_id": "1689832394871640064",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/7ac62388b630d35b78aff7049626e803e19773c8a2d7c8f878110e979bb1e9d606170b97f0428036ebd3b3183c04c172",
+        "name": "最美天气",
+        "package_name": "com.icoolme.car.weather",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "精准权威的天气预报应用",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1689832388338642944",
+        "type": "3",
+        "uninstall": true,
+        "version": "1.0.24",
+        "version_id": "1689840261525307392",
+        "version_number": 20
+      },
+      {
+        "apk_info": {
+          "apk_name": "0462df93a8603c7d1f8d881f99b8a82c.apk",
+          "file_size": "72477754",
+          "hash_code": "0462df93a8603c7d1f8d881f99b8a82c",
+          "hash_type": "md5",
+          "url": "https://incallcdn.changan.com.cn/static/cdnshamdown/prod/4e63488fff5d1a26a368e926b6be51d0844f4f5d94e0c3394a4f5f8b2122af5aa4d41dbb70b2053409f0562b7d8fe890"
+        },
+        "app_id": "1731633908066283520",
+        "icon": "http://incallcdn.changan.com.cn/static/cdnshamdown/prod/368a6f49c4a83cd0f26702f4dc1495eef4a11077d8343ea1f6fbb7a8ae2bfc020ec82c557a339dfd0fba55840f89f2e3",
+        "name": "联想浏览器",
+        "package_name": "com.lenovo.browser.hd",
+        "pay_info": {
+          "discount": 100.0,
+          "order_source": "APPSTORE",
+          "original_price": 0.0,
+          "pay_ways": [],
+          "price": 0.0
+        },
+        "restricted_state": 0,
+        "slogan": "高性能浏览器",
+        "statics": {
+          "downloads": "0",
+          "installs": "0",
+          "uninstalls": "0",
+          "updates": "0"
+        },
+        "tags": [],
+        "tid": "1731633856914505728",
+        "type": "3",
+        "uninstall": true,
+        "version": "2.0.0.2_hd_rls",
+        "version_id": "1731634445861695488",
+        "version_number": 200000002
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "pageSize": 50,
+      "total": 25
+    }
+  },
+  "msg": "",
+  "success": true
+}
